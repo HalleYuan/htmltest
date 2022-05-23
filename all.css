@@ -1,7 +1,9 @@
 h1{
     color: blue;
     font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
-    color: grey;
+    color: black;
+    font-weight: bold;
 }
